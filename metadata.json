@@ -1,0 +1,6 @@
+{
+  "name": "Fictions",
+  "description": "A liquid-glass vault where users save, browse, preview, and manage PDF, CSV, and TXT files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
